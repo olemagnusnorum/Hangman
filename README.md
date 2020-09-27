@@ -1,2 +1,2 @@
 # Hangman
-Hangman game with a dictionary containing english 300,000 words
+Hangman game with a dictionary containing 300,000 english words
